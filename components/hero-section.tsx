@@ -19,7 +19,7 @@ export function HeroSection() {
             </a>
           </div>
         </div>
-        <div className="relative h-[300px] md:h-[400px]">
+        <div className="relative h-[400px]">
           <div className="absolute top-0 right-0 w-[280px] h-[180px] bg-[#6971CA]/10 rounded-lg p-4 shadow-md">
             <div className="flex items-start gap-3 mb-3">
               <div className="w-10 h-10 rounded-full bg-[#6971CA] flex items-center justify-center text-white">
