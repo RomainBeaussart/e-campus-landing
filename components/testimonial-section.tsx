@@ -17,7 +17,7 @@ export function TestimonialSection() {
           <div className="flex flex-col md:flex-row gap-6 items-center">
             <div className="w-20 h-20 rounded-full overflow-hidden flex-shrink-0">
               <img
-                src="/placeholder.svg?height=80&width=80"
+                src="/yannis.jpg?height=80&width=80"
                 alt="Témoignage étudiant"
                 className="w-full h-full object-cover"
               />
@@ -28,7 +28,7 @@ export function TestimonialSection() {
                 dès le premier appel. Maintenant je suis en alternance depuis 6 mois et je ne regrette pas mon choix !"
               </p>
               <div>
-                <p className="font-semibold text-[#6971CA]">Thomas D.</p>
+                <p className="font-semibold text-[#6971CA]">Yannis B.</p>
                 <p className="text-sm text-gray-500">Étudiant en BTS Commerce, promotion 2023</p>
               </div>
             </div>

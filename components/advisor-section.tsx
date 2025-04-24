@@ -6,28 +6,14 @@ export function AdvisorSection() {
           <div className="grid grid-cols-2 gap-4">
             <div className="relative h-80 rounded-lg overflow-hidden">
               <img
-                src="/placeholder.svg?height=160&width=160"
+                src="/user1.jpeg?height=160&width=160"
                 alt="Conseiller eCampusLive"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="relative h-80 rounded-lg overflow-hidden mt-8">
               <img
-                src="/placeholder.svg?height=160&width=160"
-                alt="Conseillère eCampusLive"
-                className="w-full h-full object-cover"
-              />
-            </div>
-            <div className="relative h-40 rounded-lg overflow-hidden">
-              <img
-                src="/placeholder.svg?height=160&width=160"
-                alt="Conseiller eCampusLive"
-                className="w-full h-full object-cover"
-              />
-            </div>
-            <div className="relative h-40 rounded-lg overflow-hidden mt-8">
-              <img
-                src="/placeholder.svg?height=160&width=160"
+                src="/user2.jpeg?height=160&width=160"
                 alt="Conseillère eCampusLive"
                 className="w-full h-full object-cover"
               />
